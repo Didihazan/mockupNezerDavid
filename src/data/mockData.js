@@ -2,7 +2,7 @@
 export const mockUsers = [
     {
         id: 1,
-        name: "ד״ר אברהם כהן",
+        name: "הראל כהן",
         email: "avraham@nazer-david.org.il",
         role: "admin",
         groups: ["מנהלים", "חוקרים"],

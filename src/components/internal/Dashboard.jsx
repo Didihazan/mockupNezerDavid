@@ -86,7 +86,7 @@ const Dashboard = () => {
                         </div>
 
                         <div className="flex items-center space-x-4 space-x-reverse">
-                            <span className="text-sm text-gray-700">שלום, ד״ר אברהם כהן</span>
+                            <span className="text-sm text-gray-700">שלום, הראל כהן</span>
 
                             {/* Notifications */}
                             <div className="relative">
